@@ -1,0 +1,16 @@
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.divide.html
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.bar.html
+https://pandas.pydata.org/pandas-docs/stable/visualization.html
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.transpose.html
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.loc.html
+http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.corrwith.html
+
+https://github.com/ipython/ipython/issues/10227
+
+https://stackoverflow.com/questions/38422001/pandas-dataframe-corrwith-method
+https://stackoverflow.com/questions/20865487/pandas-python-plot-without-a-legend
+https://stackoverflow.com/questions/22356881/using-a-pandas-dataframe-index-as-values-for-x-axis-in-matplotlib-plot
+https://stackoverflow.com/questions/30327427/divide-one-pandas-dataframe-by-another-ignore-index-but-respect-columns
+
+
+https://medium.com/@1522933668924/using-matplotlib-in-jupyter-notebooks-comparing-methods-and-some-tips-python-c38e85b40ba1
